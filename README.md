@@ -1,4 +1,8 @@
 # Zcreator-Enhanced
+
+ALL CREDIT FOR THE ORIGINAL ZCREATOR AND ORIGINAL DATA FILES GOES TO NASHIRA AND JIHAAAD.
+THIS IS A MODIFICATION OF THEIR WORK
+
 This is an updated version of the Zcreator made by Nashira. Please refer to: https://github.com/juuussi/zCreator_data for update instruction for skills/spells/classes
 
 This version updates the list of wishes to include all of current wishes available except for improved resistances
