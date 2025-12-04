@@ -1,0 +1,19 @@
+using System.Diagnostics;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.Versioning;
+using System.Security;
+using System.Security.Permissions;
+
+[assembly: AssemblyCopyright("")]
+[assembly: AssemblyTitle("")]
+[assembly: AssemblyKeyFile("")]
+[assembly: AssemblyDelaySign(false)]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyKeyName("")]
+[assembly: AssemblyProduct("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyFileVersion("2.0.4.0")]
+[assembly: AssemblyVersion("2.0.4.0")]

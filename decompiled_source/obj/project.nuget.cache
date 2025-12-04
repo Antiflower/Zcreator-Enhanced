@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "RVp046n3Yfc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brian\\Desktop\\Zcreator\\decompiled_source\\zCreator_updated.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.bcl.hashcode\\6.0.0\\microsoft.bcl.hashcode.6.0.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.collections.immutable\\10.0.0\\system.collections.immutable.10.0.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.formats.nrbf\\10.0.0\\system.formats.nrbf.10.0.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.numerics.vectors\\4.6.1\\system.numerics.vectors.4.6.1.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.reflection.metadata\\10.0.0\\system.reflection.metadata.10.0.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.resources.extensions\\10.0.0\\system.resources.extensions.10.0.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.2\\system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.valuetuple\\4.6.1\\system.valuetuple.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
