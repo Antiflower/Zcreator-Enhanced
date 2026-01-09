@@ -1,41 +1,26 @@
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
 |=====|=================================================================|
-|   1 | Hit points(3), Intelligence(3), Constitution(1),                |
-|     | Spell point regeneration(2)                                     |
-|   2 | Hit points(3), Spell points(1), Intelligence(3),                |
-|     | Constitution(2), Spell point regeneration(2)                    |
-|   3 | Hit points(4), Spell points(1), Intelligence(4),                |
-|     | Constitution(2), Spell point regeneration(3),                   |
-|     | Cold resistance(1), Magical resistance(1)                       |
-|   4 | Hit points(3), Intelligence(3), Constitution(1),                |
-|     | Spell point regeneration(2)                                     |
-|   5 | Hit points(3), Spell points(1), Intelligence(3),                |
-|     | Constitution(2), Spell point regeneration(2)                    |
-|   6 | Hit points(4), Spell points(1), Intelligence(4),                |
-|     | Constitution(2), Spell point regeneration(3),                   |
-|     | Cold resistance(1), Magical resistance(1)                       |
-|   7 | Hit points(3), Intelligence(3), Constitution(1),                |
-|     | Spell point regeneration(2)                                     |
-|   8 | Hit points(3), Spell points(1), Intelligence(3),                |
-|     | Constitution(2), Spell point regeneration(2)                    |
-|   9 | Hit points(4), Spell points(1), Intelligence(4),                |
-|     | Constitution(2), Spell point regeneration(3),                   |
-|     | Cold resistance(1), Magical resistance(1)                       |
-|  10 | Hit points(3), Intelligence(3), Constitution(1),                |
-|     | Spell point regeneration(2)                                     |
-|  11 | Hit points(3), Spell points(1), Intelligence(3),                |
-|     | Constitution(2), Spell point regeneration(2)                    |
-|  12 | Hit points(4), Spell points(1), Intelligence(4),                |
-|     | Constitution(2), Spell point regeneration(3),                   |
-|     | Cold resistance(1), Magical resistance(1)                       |
-|  13 | Hit points(3), Intelligence(3), Constitution(1),                |
-|     | Spell point regeneration(2)                                     |
-|  14 | Hit points(3), Spell points(1), Intelligence(3),                |
-|     | Constitution(2), Spell point regeneration(2)                    |
-|  15 | Hit points(4), Spell points(1), Intelligence(4),                |
-|     | Constitution(2), Spell point regeneration(3),                   |
-|     | Cold resistance(1), Magical resistance(1)                       |
+|   1 | Hp(3), Int(3), Con(1), Sp_regen(2)                              |
+|   2 | Hp(3), Sp(1), Int(3), Con(2), Sp_regen(2)                       |
+|   3 | Hp(4), Sp(1), Int(4), Con(2), Sp_regen(3), Cold resistance(1),  |
+|     | Magical resistance(1)                                           |
+|   4 | Hp(3), Int(3), Con(1), Sp_regen(2)                              |
+|   5 | Hp(3), Sp(1), Int(3), Con(2), Sp_regen(2)                       |
+|   6 | Hp(4), Sp(1), Int(4), Con(2), Sp_regen(3), Cold resistance(1),  |
+|     | Magical resistance(1)                                           |
+|   7 | Hp(3), Int(3), Con(1), Sp_regen(2)                              |
+|   8 | Hp(3), Sp(1), Int(3), Con(2), Sp_regen(2)                       |
+|   9 | Hp(4), Sp(1), Int(4), Con(2), Sp_regen(3), Cold resistance(1),  |
+|     | Magical resistance(1)                                           |
+|  10 | Hp(3), Int(3), Con(1), Sp_regen(2)                              |
+|  11 | Hp(3), Sp(1), Int(3), Con(2), Sp_regen(2)                       |
+|  12 | Hp(4), Sp(1), Int(4), Con(2), Sp_regen(3), Cold resistance(1),  |
+|     | Magical resistance(1)                                           |
+|  13 | Hp(3), Int(3), Con(1), Sp_regen(2)                              |
+|  14 | Hp(3), Sp(1), Int(3), Con(2), Sp_regen(2)                       |
+|  15 | Hp(4), Sp(1), Int(4), Con(2), Sp_regen(3), Cold resistance(1),  |
+|     | Magical resistance(1)                                           |
 `-----------------------------------------------------------------------'
 
 ------------------------------------------------------.
