@@ -1547,16 +1547,36 @@ However, a properly placed kick can actually prove just as nasty as some
 of the minor Offensive. spells. A fighter who wars and lives is a fighter
 who knows the value of basic training.
 ---------------------------------------------------
-Help on skill: Kiru.
-Usage duration: 5
-Skill type: attack.
-Affecting stat(s): str, dex and weapon stats.
-Samurai can put all his/her physical strength and dexterity in the
-one single blow. They call this deadly skill for: 'KIRU'. Samurais
-usually start battle with this skill. There are very few opponents
-who survive that stunning and painful blow when performed by the most
-impressive samurais. Using this skill and a sharp katana samurai
-can be very dangerous opponent indeed.
+Help on skill:     Kiru
+Usage duration:    2 rounds
+Fatigue:           minimal
+Skill type:        attack
+Affecting stat(s): strength, dexterity, kiru, zhinakoku, hiding, weapon mastery
+                   and weapon stats
+
+Kiru is a blade fighting technique in which the Samurai Warrior invests
+all his physical strength and dexterity to perform a stunning attack on
+his enemy. The bladed attacks of 'Kiru' were originally designed to
+inflict terror and pain to the Samurai's opponent. However, when
+employed by one of the most legendary of the Samurais, the sudden death
+of the Samurai's opponent also becomes a very real possibility.
+
+The Samurai's inner spirit affects his ability to follow-up his initial
+kiru attack with secondary and tertiary attack maneuvers.
+
+When wielding the Tebukuro-ken with inner spirit active, a successful
+kiru may channel battle spirit into regenerative energy, mending wounds
+through meridian flow. This requires knowledge of the shizen spell.
+
+Should the stunning strike fail against a resilient opponent, advanced
+tessenjutsu mastery may awaken reflexively, allowing the warrior's body
+to flow like wind through leaves, achieving a state of formless defense.
+
+The Samurai Artists are able to perform the stronger and more exhaustive
+version of the Kiru attack developed by the legendary Samurai Artist,
+Shogun Naganoro.
+
+Syntax: use kiru at <target> <strong>.
 ---------------------------------------------------
 Help on skill: Kungfu.
 Usage duration: Random.
@@ -2623,16 +2643,26 @@ Skill type: neutral.
 This skill allows you to stuff a slain foe, making a cute, cuddly,
 and potentially valuable trophy.
 ---------------------------------------------------
-Help on skill: Throw.
-Usage duration: 3.
-Skill type: attack.
-Affecting stat(s): str and dex.
-With this skill you can throw different types of shuriken.
-Damage caused by this skill depends on your stats and
-skill percents in throw and mastery skill. Throwing speed
-highly depens on your dexterity and mastery skill as well.
-You also have to know differences between special. damage types.
-You have to use your mighty tessen with this skill.
+Help on skill:     Throw
+Usage duration:    1 round
+Fatigue:           minimal
+Skill type:        attack
+Affecting stat(s): strength and dexterity
+
+Mastery in the art of throwing the deadly battlestars called shuriken is an
+essential part of the Way of the Samurai. The samurai warglove Tebukuro-Ken
+is used to handle the shurikens, which are often treated with dangerous
+substances to inflict greater damage. Whilst the Way of the Samurai is one
+that is difficult to fathom and great dexterity, skill and mastery is
+required, it is a powerful path. Shurikens are very quick to throw and often
+inflict critical damage at the hands of a true master.
+
+The spirit of the blade flows through all aspects of the Samurai Arts. When
+the katana is blessed with certain enchantments, its essence resonates with
+the battlestars in flight. Some enchantments weaken the enemy's resolve with
+each strike, while others open wounds that magnify the devastation of
+subsequent throws. A true samurai understands that blade and shuriken are
+one, unified through the Spirit World of Shinzui Yochi.
 ---------------------------------------------------
 Help on skill: Throw sand.
 Usage duration: Random.
