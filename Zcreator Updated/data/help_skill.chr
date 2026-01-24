@@ -530,9 +530,10 @@ often assumed to be the likely source. Several other skills are linked
 to this technique, and to take full advantage of the barbarian tribes'
 heritage, achieving a high level of mastery in all of them is recommended.
 ---------------------------------------------------
-Help on skill: Blade mastery.
-Usage duration: automatic.
-Skill type: special.
+Help on skill:  Blade mastery
+Usage duration: automatic
+Skill type:     special
+
 This skill is checked when you cast an enchant spell on your
 samurai blade. Skill improves your ability to handle the blade,
 while extending the durations of enchant spells.
@@ -1350,15 +1351,21 @@ Skill type: special.
 This skill allows the Knights Templar, the 'Hand of God,' to
 enhance the protection provided by the Armour of God spell.
 ---------------------------------------------------
-Help on skill: Headcut.
-Usage duration: automatic.
-Skill type: special.
-Affecting stat(s): str and sword stats.
-With this excelent skill you can headcut your opponents neck.
-While in the battle, samurai can check enemys weaknesses
-in the defence and then strike headcut on the enemys neck.
-How fast you can headcut depends highly on your skill and
-level power. This skill is automatically in use.
+Help on skill:     Headcut
+Usage duration:    automatic
+Skill type:        special
+Affecting stat(s): str, dex, skill percent, blade's weapon class, hit bonus and
+                   damage bonus.
+                   
+
+The Samurai are trained to constantly look for openings in their
+foe's defenses. Each strike of the Samurai blade serves one of two
+purposes; to inflict great damage, or to ruse the Samurai's opponent
+in to committing a fatal flaw. Headcutting is a powerful Samurai blade
+technique for exploiting any weaknesses in the stance of the enemy. It
+is performed by quickly side-stepping the enemy and unleashing a hard
+backhanded swing at the opponent's neck. The most powerful of these have
+been known to sever the head of the opponent clean from his shoulders.
 ---------------------------------------------------
 Help on skill: Healing efficiency.
 Usage duration: automatic.
@@ -1504,13 +1511,19 @@ Skill type: special.
 This skill a measure of a Druids ability to take advantage of
 the atronomical conjunctions of the planet Jupiter.
 ---------------------------------------------------
-Help on skill: Kamikaze.
-Usage duration: 3.
-Skill type: neutral.
-With this skill samurai can attack against opponent
-brave and proudly. Nothing can't stop kamikaze samurai.
-Samurais kamikaze will lead in the battle where only
-one can survive.
+Help on skill:  Kamikaze
+Usage duration: 1 round
+Skill type:     neutral
+
+To a Samurai the act of Kamikaze is a vow, a brave challenge to
+his enemies. The essence of kamikaze is a calm decision to stand
+your ground when others would flee in terror, even against an
+insurmountable force. It is a vow that once taken, no true samurai
+breaks. With this vow comes strength and determination. Knowing
+one's path clears the mind of all ambiguity and doubt. Once set
+on the warpath known as Kamikaze, all ambiguities of life fade to
+the background. This allows the Samurai to concentrate on that which
+he does best.
 ---------------------------------------------------
 Help on skill:     Keen strikes
 Usage duration:    automatic
@@ -1713,26 +1726,71 @@ aura of power.
 
 This ability is stackable.
 ---------------------------------------------------
-Help on skill: Make acid shuriken.
-Usage duration: 6.
-Skill type: neutral.
-This skill allows a samurai to create a special. shuriken for
-use in combat. Its rather difficult so you may need to practice
-this a lot.
+Help on skill:  Make acid shuriken
+Usage duration: 1 round
+Skill type:     neutral
+
+A part of the Samurai Arts is the creation of the deadly battlestars
+known as shuriken. As a Samurai reaches a higher circle in his studies,
+he obtains the techniques necessary to treat his weapons, both his blade
+and the shuriken, with various enchanting properties that modify the type
+of damage they inflict. While the blade requires a magical blessing to
+inflict other damage types beyond the physical, the shurikens can be created
+in select types directly. Many aspects of the Samurai's talents aid in the
+construction of these special weapons. Skill knowledge in making the type
+of shuriken used, the art of Zhinakoku, and the mastery in making shuriken,
+that can only be obtained through practice and devotion, all further develope
+this aspect of the Samurai Arts. Shurikens created with this skill will char
+away the flesh of their targets.
 ---------------------------------------------------
-Help on skill: Make poison shuriken.
-Usage duration: 6.
-Skill type: neutral.
-This skill allows a samurai to create a special. shuriken for
-use in combat. Its rather difficult so you may need to practice
-this a lot.
+Help on skill:  Make poison shuriken
+Usage duration: 1 round
+Skill type:     neutral
+
+A part of the Samurai Arts is the creation of the deadly battlestars
+known as shuriken. As a Samurai reaches a higher circle in his studies,
+he obtains the techniques necessary to treat his weapons, both his blade
+and the shuriken, with various enchanting properties that modify the type
+of damage they inflict. While the blade requires a magical blessing to
+inflict other damage types beyond the physical, the shurikens can be created
+in select types directly. Many aspects of the Samurai's talents aid in the
+construction of these special weapons. Skill knowledge in making the type
+of shuriken used, the art of Zhinakoku, and the mastery in making shuriken,
+that can only be obtained through practice and devotion, all further develope
+this aspect of the Samurai Arts. Shurikens created with this skill will poison
+the flesh surrounding the puncture wound, causing grave damage.
 ---------------------------------------------------
-Help on skill: Make shuriken.
-Usage duration: 6.
-Skill type: neutral.
-This skill allows a samurai to create a special. shuriken for
-use in combat. Its rather difficult so you may need to practice
-this a lot.
+Help on skill:  Make incendiary shuriken
+Usage duration: 1 round
+Skill type:     neutral
+
+A part of the Samurai Arts is the creation of the deadly battlestars
+known as shuriken. As a Samurai reaches a higher circle in his studies,
+he obtains the techniques necessary to treat his weapons, both his blade
+and the shuriken, with various enchanting properties that modify the type
+of damage they inflict. While the blade requires a magical blessing to
+inflict other damage types beyond the physical, the shurikens can be created
+in select types directly. Many aspects of the Samurai's talents aid in the
+construction of these special weapons. Skill knowledge in making the type
+of shuriken used, the art of Zhinakoku, and the mastery in making shuriken,
+that can only be obtained through practice and devotion, all further develope
+this aspect of the Samurai Arts. Shurikens created with this skill will ignite
+once thrown, burning the flesh of anyone in their path.
+Help on skill:  Make shuriken
+Usage duration: 1 round
+Skill type:     neutral
+---------------------------------------------------
+A part of the samurai arts is the creation of the deadly battlestars
+known as shuriken. As a samurai reaches a higher circle in his studies,
+he obtains the techniques necessary to treat his weapons, both his blade
+and the shuriken, with various enchanting properties that modify the type
+of damage they inflict. While the blade requires a magical blessing to
+inflict other damage types beyond the physical, the shurikens can be created
+in select types directly. Many aspects of the samurai's talents aid in the
+construction of these special weapons. Skill knowledge in making the type
+of shuriken used, the art of Zhinakoku, and the mastery in making shuriken,
+that can only be obtained through practice and devotion, all further develop
+this aspect of the samurai arts.
 ---------------------------------------------------
 Help on skill:     Mangle.
 Usage duration:    random.
@@ -1795,6 +1853,19 @@ level of proficiency, by most monks, it is not correct to think that it
 is a simple skill. Through training the mind in some of the finer points
 of this technique, the monk is able to achieve a more potent trance, and
 will heal faster while in it.
+---------------------------------------------------
+Help on skill:  Mastery of coating
+Usage duration: automatic
+Skill type:     special
+
+The art of coating the deadly battlestars known as shuriken takes
+the better part of a Samurai's life to master. While the Artists of
+the Samurai are legendary in their ability to treat the shuriken, all
+sects of the Samurai Guild receive training in this aspect of the
+Samurai Art. Often, the best mentors are Artists of the Samurai
+themselves. Proficiency in the mastery of coating increases the
+effect of poisonous, incendiary and corrosive coatings applied
+to the Samurai's shuriken.
 ---------------------------------------------------
 Help on skill: Mastery of illusion.
 Usage duration: automatic.
@@ -2618,13 +2689,18 @@ shock will suffer a smaller portion of the damage ignored, and if
 lucky, they can sometimes survive even if the damage felt exceeds
 their current stamina.
 ---------------------------------------------------
-Help on skill: Tameshivar.
-Usage duration: automatic.
-Skill type: special.
-Affecting stat(s): str and weapon stats.
-This is samurai's special. manoeuvre skill. It will give you a chance
-to hit special. attack with your sword. This skill is automatically
-in use.
+Help on skill:     Tameshivar
+Usage duration:    automatic
+Skill type:        special
+Affecting stat(s): dex, skill percent, blade's weapon class, hit bonus and damage
+                   bonus.
+                   
+
+The nature of the Spirits of the Samurai blades closely resemble their
+physical forms. Unmerciful and never tiring, the blades were designed to draw
+blood from the Samurai's enemies. In the offense known as Tameshivar, the
+Spirit of the blade is able to tap into the life energies of the enemy, causing
+even greater harm than the blade wound itself would indicate.
 ---------------------------------------------------
 Help on skill: Taunt.
 Usage duration: Random.
@@ -3085,14 +3161,16 @@ guild. These wands are often enchanted and sold, the benefits of
 them are without question.
 It is automatically in use.
 ---------------------------------------------------
-Help on skill: Zhinakoku.
-Usage duration: automatic.
-Skill type: special.
-Only high and veteran samurais can train this ancient master skill.
-This skill is used automatically with all skills concerned with a creating
-special. shurikens. This skill will also help your knowledge of throwing
-those deadly battlestars. Knowledge of zhinakoku will help you also.
-to hit more effective with the kiru skill.
+Help on skill:  Zhinakoku
+Usage duration: automatic
+Skill type:     special
+
+Zhinakoku is the word that describes the deeper reflections of the Way
+of the Samurai. It is a reflection within action, and action through honor.
+Once this path is understood, the samurai can employ its teachings in all
+aspects of their warcraft. It aids them in the construction of the deadly
+shuriken, their skillful usage and it also enables them to focus their being
+in a single devastating attack, known only as Kiru.
 ---------------------------------------------------
 Help on skill:     Skill that removes user from location of origin and places
                    user in location of destination
@@ -3864,4 +3942,46 @@ bleeding from wounds they never saw coming, their defense shattered by the
 sheer impossible speed of savage fury.
 
 Civilization teaches restraint. The frenzy teaches victory.
+---------------------------------------------------
+Help on skill:  Silent movement
+Usage duration: automatic
+Skill type:     special
+
+Silent movement is an aspect of Ninjutsu. It is the way of assassins to
+approach their targets without sound, unheard until the very last moment.
+While the Ninja focus in methods of assasination and combat in their studies
+rather than stealth, this skill complements the samurai magical walking
+techniques, and makes it possible for the Ninja to move in secret while
+walking magically. In combat, the art of silent movement makes the Ninja's
+foot movement harder to anticipate, which creates openings for additional
+headcuts and tameshivars and aids in the art of Tebukuro kenjutsu. Many of
+the legendary Master Ninjas have later continued their training in stealth
+by joining the Guild of Thieves. This has allowed them to achieve perfect
+understanding in the ways of the silent blade.
+---------------------------------------------------
+Help on skill:  The art of bushido
+Usage duration: automatic
+Skill type:     special
+
+                          Gi - Rectitude
+                           Yuu - Courage
+                         Jin - Benevolence                           
+                          Rei - Respect                              
+                          Shin - Honesty                             
+                            Yo - Honor                               
+                          Chuu - Loyalty                             
+                                                                     
+Bushido is the tradition of the Samurai, the ethical and moral
+pinnacle carried through the ages from each Samurai Warrior to their
+eldest proven son. It is the very essence of the Way, and to neglect it
+is to forfeit all privilege and status of the Samurai. Bushido can not be
+taught, it is only observed and learned through faithful and diligent
+adherence to its virtues. This skill does not teach the Art of Bushido,
+as each Samurai to reach the status of Samurai Shogunate is brought up to
+this tradition from the cradle. Instead, this Art teaches the Samurai
+Shogunate on how to display their virtue and adherence to the traditions
+to the younger Samurais. As a result, each young Samurai fortunate enough
+to join the party of a Samurai Shogunate shall learn from his experience,
+gaining mastery in the Samurai's special skills considerably faster.
+Skill percent determines the Samurai Shogunate's extent of influence.
 ---------------------------------------------------

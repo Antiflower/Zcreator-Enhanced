@@ -634,13 +634,22 @@ projectile. After materializing, the magical arrow springs from your
 hand and speeds to its target. There is no enveloping splash damage,
 and the acid neutralizes within the round.
 ---------------------------------------------------
-Help on spell: Acid blade.
-Casting time: 5 rounds.
-Spell cost: 200 SPs.
-Spell type: neutral.
-Spell words: daimio thorex acid.
-This spell gives the Samurai's sword a magical
-acidblade.
+Help on spell: Acid blade
+Casting time:  3 rounds
+Spell cost:    173 SPs
+Spell type:    enchantment
+Spell words:   daimio thorex acid
+
+The spiritual side of the samurai arts gives its master many powers over
+those who rely on their talents in the physical world alone. The ancient
+katana is a part of the samurai that carries it, and those with power can
+enchant it in many ways. This spell bestows a magical acid blade enchantment
+upon the katana or the Samurai's warglove, converting a portion of the weapon's
+physical damage to acid.
+
+The enchantment will remain active indefinitely after casting, gradually draining
+spell points from the caster for its maintenance. The nonphysical damage percentage
+and spell point drain both improve with mastery of the samurai arts.
 ---------------------------------------------------
 Help on spell: Acid preference.
 Casting time: 10 rounds.
@@ -2511,13 +2520,22 @@ NOTE: Pluto Lore provides bonus damage for this spell.
 NOTE: This spell can only be cast outdoors where Pluto can be seen.
 NOTE: This spell does much more damage if Pluto is in conjunction.
 ---------------------------------------------------
-Help on spell: Fire blade.
-Casting time: 5 rounds.
-Spell cost: 200 SPs.
-Spell type: neutral.
-Spell words: daimio thorex fire.
-This spell gives the Samurai's sword a magical
-fireblade.
+Help on spell: Fire blade
+Casting time:  3 rounds
+Spell cost:    173 SPs
+Spell type:    enchantment
+Spell words:   daimio thorex fire
+
+The spiritual side of the samurai arts gives its master many powers over
+those who rely on their talents in the physical world alone. The ancient
+katana is a part of the samurai that carries it, and those with power can
+enchant it in many ways. This spell bestows a magical fire blade enchantment
+upon the katana or the Samurai's warglove, converting a portion of the weapon's
+physical damage to fire.
+
+The enchantment will remain active indefinitely after casting, gradually draining
+spell points from the caster for its maintenance. The nonphysical damage percentage
+and spell point drain both improve with mastery of the samurai arts.
 ---------------------------------------------------
 Help on spell: Fire breathing act.
 Casting time: 2 rounds.
@@ -3256,13 +3274,23 @@ This spell will expand your mind and increase your wisdom about
 spiritual matters. Power of this spell depends on your level and
 spell percent.
 ---------------------------------------------------
-Help on spell: Ice blade.
-Casting time: 5 rounds.
-Spell cost: 200 SPs.
-Spell type: neutral.
-Spell words: daimio thorex ice.
-This spell gives the Samurai's sword a magical
-iceblade.
+
+Help on spell: Ice blade
+Casting time:  3 rounds
+Spell cost:    173 SPs
+Spell type:    enchantment
+Spell words:   daimio thorex ice
+
+The spiritual side of the samurai arts gives its master many powers over
+those who rely on their talents in the physical world alone. The ancient
+katana is a part of the samurai that carries it, and those with power can
+enchant it in many ways. This spell bestows a magical ice blade enchantment
+upon the katana or the Samurai's warglove, converting a portion of the weapon's
+physical damage to cold.
+
+The enchantment will remain active indefinitely after casting, gradually draining
+spell points from the caster for its maintenance. The nonphysical damage percentage
+and spell point drain both improve with mastery of the samurai arts.
 ---------------------------------------------------
 Help on spell: Icebolt.
 Casting time: 2 rounds.
@@ -3732,12 +3760,28 @@ The bard needs to have a lightning rod on her person for
 this spell to be successful; the bard channels all of her
 spell energy through the rod, calling the storm.
 ---------------------------------------------------
-Help on spell: Lightsword.
-Casting time: 3 rounds.
-Spell cost: 989 SPs.
-Spell type: neutral.
-Spell words: daimio enox hit.
-This spell will enhance sword ability to hit.
+Help on spell: Lightsword
+Casting time:  3 rounds
+Spell cost:    433 SPs
+Spell type:    neutral
+Spell words:   daimio enox hit
+
+The samurai blades are unique in their sharpness, potential to damage
+and lightness of use. No forged sword or crude iron weapon can prove their
+match, for the samurai blades are as much spiritual as they are physical.
+It is said that a spirit lives within each samurai sword, and that it gives
+the blades their supernatural powers. Lightsword affects the accuracy and
+easiness of use of the magical samurai blade, and it is an essential blade
+enchantment for any samurai warrior.
+
+Lightsword will remain active indefinitely after casting, gradually draining
+spell points from the caster for its maintenance. Both the enchantment strength
+and the spell point drain improve with mastery of the samurai arts.
+
+The syntax to use this spell is:
+  cast lightsword at <casual|focused|dedicated|devoted|absolute>
+
+To drop the enchantment, type 'lightsword_off'.
 ---------------------------------------------------
 Help on spell: Lion's heart.
 Casting time: 6 rounds.
@@ -4218,14 +4262,18 @@ protected from the dangerous affects of water allergy.
 In fact, it makes water friendly to you in the same way
 that water is friendly to Treants and Merfolk.
 ---------------------------------------------------
-Help on spell: Neutralize blade.
-Casting time: 2 rounds.
-Spell cost: 80 SPs.
-Spell type: neutral.
-Spell words: daimio thorex pois.
-This spell neutralizes the magical damage type from
-the sword. You can also change your sword name with
-this spell. Syntax: cast neutralize blade at <name>
+Help on spell: Neutralize blade
+Casting time:  2 rounds
+Spell cost:    69 SPs
+Spell type:    neutral
+Spell words:   daimio thorex pois
+
+With this aspect of his magical abilities, the samurai is able to reach
+out with his spirit and touch the blade or warglove that is a part of him.
+In so doing the samurai unravels the elemental magics surrounding the weapon,
+making it once again pure and ready to accept a new elemental enchantment.
+
+Syntax: cast neutralize blade at <blade|warglove>
 ---------------------------------------------------
 Help on spell: Northwind.
 Casting time: 3 rounds.
@@ -4385,13 +4433,22 @@ This spell will poison a player, and will not work on monsters.
 Higher proficiency in this spell entails higher effectiveness on
 the poison.
 ---------------------------------------------------
-Help on spell: Poison blade.
-Casting time: 5 rounds.
-Spell cost: 200 SPs.
-Spell type: neutral.
-Spell words: daimio thorex poison.
-This spell gives the Samurai's sword a magical
-poisonblade.
+Help on spell: Poison blade
+Casting time:  3 rounds
+Spell cost:    173 SPs
+Spell type:    enchantment
+Spell words:   daimio thorex poison
+
+The spiritual side of the samurai arts gives its master many powers over
+those who rely on their talents in the physical world alone. The ancient
+katana is a part of the samurai that carries it, and those with power can
+enchant it in many ways. This spell bestows a magical poison blade enchantment
+upon the katana or the Samurai's warglove, converting a portion of the weapon's
+physical damage to poison.
+
+The enchantment will remain active indefinitely after casting, gradually draining
+spell points from the caster for its maintenance. The nonphysical damage percentage
+and spell point drain both improve with mastery of the samurai arts.
 ---------------------------------------------------
 Help on spell: Poison fend.
 Casting time: 8 rounds.
@@ -4636,12 +4693,28 @@ with a target will severly decrease his or her resistances
 against cold, corrosive substances, psionic damage, poisons 
 and physical damage.
 ---------------------------------------------------
-Help on spell: Razor edge.
-Casting time: 3 rounds.
-Spell cost: 989 SPs.
-Spell type: neutral.
-Spell words: daimio enox damage.
-This spell will enhance sword ability to Damage.
+Help on spell: Razor edge
+Casting time:  3 rounds
+Spell cost:    433 SPs
+Spell type:    neutral
+Spell words:   daimio enox damage
+
+The samurai blades are unique in their sharpness, potential to damage
+and lightness of use. No forged sword or crude iron weapon can prove their
+match, for the samurai blades are as much spiritual as they are physical.
+It is said that a spirit lives within each samurai sword, and that it gives
+the blades their supernatural powers. Razor edge affects the damage potential
+of the magical samurai blade, and it is an essential blade enchantment for
+any samurai warrior.
+
+Razor edge will remain active indefinitely after casting, gradually draining
+spell points from the caster for its maintenance. Both the enchantment strength
+and the spell point drain improve with mastery of the samurai arts.
+
+The syntax to use this spell is:
+  cast razor edge at <casual|focused|dedicated|devoted|absolute>
+
+To drop the enchantment, type 'razor_off'.
 ---------------------------------------------------
 Help on spell: Reanimate flesh golem.
 Casting time: 10 rounds.
@@ -4979,13 +5052,17 @@ magic around the recipient, granting an advantage in melee. The protection
 from this spell depends on the caster's intelligence and wisdom. Level will 
 affect duration. This spell is stackable.
 ---------------------------------------------------
-Help on spell: Shizen.
-Casting time: 4 rounds.
-Spell type: heal.
-Spell words: Shiasha daimyo.
-With this spell a samurai can convert his magical
-energy into life force depending on spell percent.
-Usage: cast shizen at <sp number>.
+Help on spell: Shizen
+Casting time:  4 rounds
+Spell type:    heal
+Spell words:   Shiasha daimyo
+
+Shizen is magic that taps the calm center of the samurai, the inner
+peace which exists whether he is fighting an enemy or still seeking them
+out. While taxing to the spirit, tapping this energy rejuvenates
+the samurai physically, harvesting on the power that lies within.
+Usage: cast shizen at <amount of spell points>.
+
 ---------------------------------------------------
 Help on spell: Shocking grasp.
 Casting time: 2 rounds.
@@ -5013,12 +5090,28 @@ booth. The spell works from far away distances and is very useful since the
 trader won't have to run to his/her booth to check out if something has been
 sold.
 ---------------------------------------------------
-Help on spell: Silver sheen.
-Casting time: 3 rounds.
-Spell cost: 989 SPs.
-Spell type: neutral.
-Spell words: daimio enox class.
-This spell will enhance sword's weapon class.
+Help on spell: Silver sheen
+Casting time:  3 rounds
+Spell cost:    433 SPs
+Spell type:    neutral
+Spell words:   daimio enox class
+
+The samurai blades are unique in their sharpness, potential to damage
+and lightness of use. No forged sword or crude iron weapon can prove their
+match, for the samurai blades are as much spiritual as they are physical.
+It is said that a spirit lives within each samurai sword, and that it gives
+the blades their supernatural powers. Silver sheen affects the sharpness
+of the magical samurai blade, and it is an essential blade enchantment for
+any samurai warrior.
+
+Silver sheen will remain active indefinitely after casting, gradually draining
+spell points from the caster for its maintenance. Both the enchantment strength
+and the spell point drain improve with mastery of the samurai arts.
+
+The syntax to use this spell is:
+  cast silver sheen at <casual|focused|dedicated|devoted|absolute>
+
+To drop the enchantment, type 'sheen_off'.
 ---------------------------------------------------
 Help on spell: Sirocco.
 Casting time: 5 rounds.
@@ -6502,4 +6595,41 @@ cells can cause an illumnating chemical reaction inside the caster,
 causing their skin to start glowing in what the scholars call an act
 of bioluminescence. This has its advantages in both delving in the
 darkness as well as making the invoker all the more approachable.
+---------------------------------------------------
+
+Help on spell: Tenrai blade
+Casting time:  4 rounds
+Spell cost:    260 SPs
+Spell type:    enchantment
+Spell words:   daimio drag moooooor eeeeviil
+
+Tenrai Blade is a blade enchantment used by the Samurai to inflict
+additional damage on the forces of evil and it has no effect on
+creatures of other alignment. While this blade enchantment has a great
+potential to damage, some aspects of the Tenrai Blade spell narrow its
+use. The effective use of the Tenrai Blade enchantment requires
+substantial mastery of his weapon, and the alignment of the enemy heavily
+reflects on the damage inflicted.
+
+Tenrai blade will remain active indefinitely after casting, gradually
+draining spell points for maintenance.  To end it at any time, type
+'tenrai_off'.
+---------------------------------------------------
+Help on spell: Jigoku blade
+Casting time:  4 rounds
+Spell cost:    260 SPs
+Spell type:    enchantment
+Spell words:   daimio ghooor moooooor goooood
+
+Jigoku Blade is a blade enchantment used by the Samurai to inflict
+additional damage on the forces of good and it has no effect on
+creatures of other alignment. While this blade enchantment has a great
+potential to damage, some aspects of the Jigoku Blade spell narrow its
+use. The effective use of the Jigoku Blade enchantment requires
+substantial mastery of his weapon, and the alignment of the enemy heavily
+reflects on the damage inflicted.
+
+Jigoku blade will remain active indefinitely after casting, gradually
+draining spell points for maintenance.  To end it at any time, type
+'jigoku_off'.
 ---------------------------------------------------
