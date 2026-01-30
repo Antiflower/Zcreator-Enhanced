@@ -3959,7 +3959,7 @@ the legendary Master Ninjas have later continued their training in stealth
 by joining the Guild of Thieves. This has allowed them to achieve perfect
 understanding in the ways of the silent blade.
 ---------------------------------------------------
-Help on skill:  The art of bushido
+Help on skill:  Art of bushido
 Usage duration: automatic
 Skill type:     special
 
@@ -3984,4 +3984,29 @@ to the younger Samurais. As a result, each young Samurai fortunate enough
 to join the party of a Samurai Shogunate shall learn from his experience,
 gaining mastery in the Samurai's special skills considerably faster.
 Skill percent determines the Samurai Shogunate's extent of influence.
+---------------------------------------------------
+
+Help on skill:     Brutal swiftness
+Usage duration:    automatic
+Skill type:        passive
+Affecting stat(s): strength and skill percent
+
+Some believe dexterity to be the sole provider of speed, but these fools
+have not witnessed the primal fury of a charging rhino or the explosive
+power of a striking bear. A well-trained barbarian, despite being a
+towering colossus of scars and muscle, can move in short bursts with such
+violent alacrity that onlookers mistake it for witchcraft when in
+reality it is simply pure, unbridled strength.
+
+Where others rely on nimble footwork and careful positioning, a barbarian
+has learned to explode into motion through raw muscular power. Their massive
+frame doesn't gracefully sidestep danger but erupts away from it, driven
+by the same explosive force that propels an apex predator into its strike.
+Each evasive movement is less a dodge and more a controlled detonation of
+strength, the body launching itself clear of harm through sheer physical
+might rather than agility.
+
+This is not the measured dance of a duelist. This is the terrifying burst
+of a warhorse changing direction, the sudden lunge of a great cat: brutal,
+overwhelming, and devastatingly effective.
 ---------------------------------------------------
